@@ -4,3 +4,6 @@ pyodbc
 fdb
 
 there are tons of these, depending on where you want to source your data..........
+
+
+The other important thing to remember is to create your own databases on your own servers and make sure the correct ports are open for data to be collected.
