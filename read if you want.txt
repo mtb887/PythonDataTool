@@ -1,0 +1,6 @@
+Pease, please, please install the connector modules
+mysql-connector-python
+pyodbc
+fdb
+
+there are tons of these, depending on where you want to source your data..........
